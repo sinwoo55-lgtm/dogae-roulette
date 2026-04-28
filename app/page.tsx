@@ -39,11 +39,11 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white p-6">
+    <main className="min-h-screen bg-gradient-to-br from-slate-950 via-blue-950 to-slate-900 text-white p-6">
       <div className="max-w-6xl mx-auto">
         {/* 헤더 */}
         <header className="text-center mb-8">
-          <h1 className="text-5xl font-black bg-gradient-to-r from-yellow-300 via-pink-400 to-purple-400 bg-clip-text text-transparent">
+          <h1 className="text-5xl font-black bg-gradient-to-r from-cyan-300 via-blue-400 to-indigo-400 bg-clip-text text-transparent">
             🎲 도개 룰렛
           </h1>
           <p className="text-slate-300 mt-2">구슬 레이스로 정하는 운명의 순서!</p>
